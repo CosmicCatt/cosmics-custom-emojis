@@ -16,6 +16,8 @@
     "\uE00C": ["@gapaab"],
     "\uE00D": ["@sam","@samdreaming"],
     "\uE00E": ["@dyrris"],
+    "\uE00F": ["@vyx"],
+    "\uE010": ["@karma"],
 
     "\uE100": ["beatblock","bebloc"],
     "\uE101": ["cato","cato_buttered_cat"],
@@ -26,6 +28,8 @@
     "\uE106": ["murder_drones","md"],
 
     "\uE200": ["blender"],
-    "\uE201": ["train"]
+    "\uE201": ["train"],
+    "\uEFF1": ["back1"],
+    "\uEFF4": ["back4"]
   }
 }
