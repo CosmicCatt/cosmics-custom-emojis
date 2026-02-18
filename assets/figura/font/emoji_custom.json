@@ -1,0 +1,14 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "figura:font/emojis/custom.png",
+      "ascent": 8,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E",
+        "\uE100\uE101\uE102\uE103\uE104\uE105\uE106\uE107\uE108\uE109\uE10A\uE10B\uE10C\uE10D\uE10E",
+        "\uE200\uE201\uE202\uE203\uE204\uE205\uE206\u1207\uE208\uE209\uE20A\uE20B\uE20C\uE20D\uE20E"
+      ]
+    }
+  ]
+}
