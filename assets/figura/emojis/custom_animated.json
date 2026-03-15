@@ -4,6 +4,6 @@
   "blacklist": "",
   "emojis": {
     "\uE000": {"names":["@vyxey"],"frames":2,"frametime":20},
-    "\uE001": {"names":["gear","cog"],"frames":3,"frametime":3}
+    "\uE001": {"names":["@traveller","@the_traveller","gear","cog"],"frames":3,"frametime":3}
   }
 }

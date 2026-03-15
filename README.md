@@ -11,7 +11,7 @@ beatblock, cato, portal, portal_orange, in_stars_and_time, pico_park, murder_dro
 blender, train, draconite, sillyplugin, charter
 
 ## Animated:
-@vyxey
+@vyxey, @traveller
 
 ## Special:
 back1, back4
