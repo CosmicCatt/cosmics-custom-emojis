@@ -2,13 +2,13 @@
 Adds new emojis to figura!
 
 ## Portraits:
-cosmiccat, setmau, amazingdefender, dewsmith, roxi_mystle, adenator09a, just_ghasty, nikosolstice, commandershiji, nnotamod, benky, mangodev, gapaab, samdreaming, dyrris, vyx, karma, glorpie, psychomechanical, vaedia
+cosmiccat, setmau, amazingdefender, adenator09a, nikosolstice, commandershiji, nnotamod, benky, mangodev, gapaab, samdreaming, dyrris, vyx, karma, glorpie, vaedia, yot, minecraftian, thecomputerfrog
 
 ## References:
-beatblock, cato, portal, portal_orange, in_stars_and_time, pico_park, murder_drones
+beatblock, cato, portal, portal_orange, in_stars_and_time, pico_park, murder_drones, sillyplugin, charter
 
 ## Miscellaneous:
-blender, train, draconite, sillyplugin, charter
+blender, train, draconite, autumn_leaf
 
 ## Animated:
 @vyxey, @traveller
