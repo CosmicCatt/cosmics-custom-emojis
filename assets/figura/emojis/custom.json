@@ -1,16 +1,11 @@
 {
   "blacklist": "",
   "emojis": {
-    "\uE000": ["@cosmiccat","@cosmic_the_cat"],
     "\uE001": ["@setmau","@cat"],
-    "\uE002": ["@amazingdefender"],
     "\uE005": ["@mikii","@adenator","@adenator09a"],
     "\uE007": ["@nikosolstice","@niko","@solstice"],
-    "\uE008": ["@shiji","@commandershiji"],
-    "\uE009": ["@notamoderator","@nnotamod","@nam"],
     "\uE00A": ["@benky"],
     "\uE00B": ["@mangodev","@mango"],
-    "\uE00C": ["@gapaab"],
     "\uE00D": ["@sam","@samdreaming"],
     "\uE00E": ["@dyrris"],
     "\uE00F": ["@vyx"],
@@ -33,7 +28,6 @@
 
     "\uE200": ["blender"],
     "\uE201": ["train"],
-    "\uE202": ["draconite","draconite_halo"],
     "\uE203": ["autumn_leaf","autumn","fall_leaf"],
 
     "\uEFF1": ["back1"],
